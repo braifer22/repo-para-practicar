@@ -1,3 +1,6 @@
+/* First time i use typescript */
+/* Just learning 👀 */
+
 const $submit = document.getElementById('submit') as HTMLButtonElement;
 const $input = document.getElementById('input') as HTMLInputElement;
 const $ul = document.getElementById('tasksList') as HTMLUListElement;
